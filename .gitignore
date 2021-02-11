@@ -1,7 +1,6 @@
 # Prerequisites
-.gitignore
-*.old
 *.d
+*.old
 
 # Object files
 *.o
