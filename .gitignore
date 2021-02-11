@@ -1,4 +1,6 @@
 # Prerequisites
+.gitignore
+sdkconfig.old
 *.d
 
 # Object files
