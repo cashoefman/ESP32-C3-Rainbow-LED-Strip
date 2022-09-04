@@ -2,7 +2,8 @@
 
 This is an example of how to use the Espressif ESP32-C3-DevKitM-1 to drive a WS2812B-64 Led Strip. The  [WS2812](http://www.world-semi.com/Certifications/WS2812B.html) is a digital RGB LED which integrates a driver circuit and a single control wire. This example will illustrate how to drive an WS2812B-64 LED strip but can be easily adopted to drive a led strip of a different size.
 
-[![ESP32-C3 DevKitM-1 Rainbow](https://i9.ytimg.com/vi/IrDMmVUumLg/mq1.jpg?sqp=CKD3loEG&rs=AOn4CLC3bmukQDt5VDvWyDedzZU1vlxI1w)](https://youtu.be/IrDMmVUumLg)
+[![ESP32-C3 DevKitM-1 Rainbow](https://img.youtube.com/vi/IrDMmVUumLg/0.jpg)](https://youtu.be/IrDMmVUumLg)
+
 video example
 
 ## How to Use Example
